@@ -13,7 +13,7 @@ So I've done it for you, in this repo.
 To get the intellisense back, you'll need to include the `MonoGame.Framework.xml` file inside the NuGet package folder that is downloaded on your computer.  It's not as complicated as it might sound, steps are provided below.  Where you place the file will be dependent on your operating system.
 
 ### Step 1: Download the file
-First download the `MonoGame.Framework.xml` file found in the Releases page in this repo
+First download the `MonoGame.Framework.xml` file found in the [Releases](https://github.com/AristurtleDev/monogame-xml-documentation/releases/tag/v3.8.1.303) page in this repo
 
 ### Step 2: Where to put the file
 The following paths assume that your NuGet packages are downloaded to the default global NuGet path.
